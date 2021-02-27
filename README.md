@@ -1,5 +1,5 @@
 # C_Algorithm
-[C] Algorithm 2020-1 Study, Projects \n
+[C] Algorithm 2020-1 Study, Projects
 Martix Multiplication, Chain
 Fibonacci
 Knapsack
